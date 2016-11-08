@@ -20,11 +20,11 @@ $frameAsset = IndexAsset::register ( $this );
 
 <div class="fudan-error-div"
 	style="text-align: center; width: 100%; margin-top: 2%;">
-	<img src="<?php echo $frameAsset->baseUrl; ?>/images/logo.png"
+	<img src="<?php echo $frameAsset->baseUrl; ?>/images/sjt-logo.png"
 		style="width: auto; height: 128px; display: inline">
 </div>
 <div class="fudan-error-div" style="text-align: center; margin-top: 5%;">
-	<span style="color: gray; font-size: 70%"> 欢迎大家一起来孵蛋<br>
+	<span style="color: gray; font-size: 70%"> <br>
 		{点个赞支持我们吧}
 	</span><br> <span style="color: gray; font-size: 70%"><a
 		id="dislike_url" data="<?php echo Yii::$app->request->baseUrl?>/api/default/clickevent" class="a-button dislike-button"><img
@@ -34,6 +34,6 @@ $frameAsset = IndexAsset::register ( $this );
 
 </div>
 <div class="fudan-error-div" style="text-align: center; margin-top: 5%;">
-	<span style="color: gray; font-size: 70%">孵蛋大学，孵化你真正的思想<br> <br>
+	<span style="color: gray; font-size: 70%">CopyRight 2015. SJT.University<br> <br>
 	</span>
 </div>

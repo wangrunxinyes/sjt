@@ -13,7 +13,7 @@ $frameAsset = IndexAsset::register ( $this );
 <article class="htmleaf-container">
 	<header class="htmleaf-header">
 		<h1>
-			早知道考孵蛋大学这么难！我就不报了<br> <br>一只公鸡抱怨道
+			上海交通大学
 		</h1>
 	</header>
 </article>

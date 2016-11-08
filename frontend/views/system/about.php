@@ -14,20 +14,18 @@ AboutAsset::register($this);
             <div class="post-content">
                 <p>孵蛋大学成立于 2015 年 11 月 09日, 现在正在试运行阶段，欢迎大家提出宝贵意见。</p>
                 <hr>
+                <p>管理员
+                <br>
+                    <strong>李京波</strong></p>
                 <p>
-                    管理员邮件地址
+                 邮件地址
                     <br>
-                    <strong><a href=mailto:admin@fudan.university>admin@fudan.university</a></strong>
-                </p>
-                <p>
-                    客服邮件地址（停用）
-                    <br>
-                    <strong><a href=mailto:service@fudan.university>service@fudan.university</a></strong>
+                    <strong><a href=mailto:admin@sjt.university>admin@sjt.university</a></strong>
                 </p>
                 <hr>
                 <br>
                 <br>
-                CopyRight 2015. fudan.university
+                CopyRight 2015. sjt.university
                 <br>All Rights Reserved</div>
         </div>
     </div>

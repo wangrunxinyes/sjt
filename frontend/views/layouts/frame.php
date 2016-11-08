@@ -12,7 +12,7 @@ IndexAsset::register($this);
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="google-site-verification" content="YM3sbTFlXbgiMOgXvoeLgpgsAbegJ4nLgxXbLw3s4xE" />
 	<meta name="baidu-site-verification" content="bAhhDMyY1G" />
-	<title>孵蛋大学</title>
+	<title>上海交通大学</title>
 	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css'>
 	<!--[if IE]>
 	<script src="http://libs.useso.com/js/html5shiv/3.7/html5shiv.min.js"></script>
@@ -35,7 +35,7 @@ IndexAsset::register($this);
 		<div class="bar">
 			<button id="navbox-trigger" class="navbox-trigger"> <i class="fa fa-lg fa-th"></i>
 			</button>
-			<label class="fudan-title">孵蛋大学</label>
+			<label class="fudan-title">上海交通大学</label>
 			<a href="#" class="fudan-title-right bt-fudan-login"> <i class="fa fa-user fudan-title-icon"></i>
 				<span class="fudan-top-username">登录</span>
 			</a>
